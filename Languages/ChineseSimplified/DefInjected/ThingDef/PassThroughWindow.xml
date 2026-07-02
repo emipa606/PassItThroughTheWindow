@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pass-through window -->
+  <PassThroughWindow.label>传递窗</PassThroughWindow.label>
+  <!-- EN: A two-sided pass-through window for transferring items between rooms without entering or disrupting the other room's climate—perfect for moving raw food directly to the kitchen or cold storage. Act fast, though, perishable items left on the windowsill will deteriorate. -->
+  <PassThroughWindow.description>一种在两个房间之间传递物品的窗户，不会串通两个房间的温度，非常适合将生食运送到厨房或冷库。不过动作要快，留在窗台上的易腐物品可能会变质。</PassThroughWindow.description>
+  
+</LanguageData>
