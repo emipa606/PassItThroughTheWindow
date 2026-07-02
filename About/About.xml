@@ -10,26 +10,26 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.postimg.cc/1X4HT06h/Info.png[/img]
+  <description>[img]https://img.litet.net/logos/Info.png[/img]
 Update of SilkCircuits mod https://steamcommunity.com/sharedfiles/filedetails/?id=3375293116
 
-[img]https://i.postimg.cc/8csH3dWV/Notice.png[/img]
+[img]https://img.litet.net/logos/Notice.png[/img]
 
 [table]
-    [tr][td][url=https://discord.gg/h5TY6DA][img]https://i.postimg.cc/T1h9SjbF/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/PassItThroughTheWindow][img]https://i.postimg.cc/fykKF7X4/Github.png[/img][/url][/td]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/PassItThroughTheWindow][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
     [/tr]
     [tr]
-        [td][img]https://i.postimg.cc/MHXD40RW/Safe-To-Add.png[/img][/td]
-        [td][img]https://i.postimg.cc/brdTM0bP/Remove-May-Work.png[/img][/td]
+        [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
+        [td][img]https://img.litet.net/logos/RemoveMayWork.png[/img][/td]
     [/tr]
 [/table]
 	
-[img]https://i.postimg.cc/hvhrw8xB/Original-Description.png[/img]
+[img]https://img.litet.net/logos/OriginalDescription.png[/img]
 [h3]A two-sided pass-through window for transferring items between rooms without entering or disrupting the other room's climate—perfect for moving raw food directly to the kitchen or cold storage.[/h3]
 
 Whether you're forcing colonists to deliver slave body straps to bedrooms or enabling druggie colonists with faster access to goods, this handy hole-in-the-wall keeps things efficient, awkward-free, and climate-controlled.
 
-[img]https://i.postimg.cc/rpK15zJs/dM3nw44.gif[/img]
+[img]https://img.litet.net/dM3nw44.png[/img]
 
 Ideal for your annoying, high-voiced recluse chefs, introverted haulers, and anyone mastering the medieval equivalent of 'leave it at the door.' Because sometimes, the best way to improve logistics is to avoid eye contact entirely.
 
@@ -52,14 +52,14 @@ Ideal for your annoying, high-voiced recluse chefs, introverted haulers, and any
 [/list]
 
 [hr][/hr]
-[h3][b]Credits &amp;amp; Disclaimer[/b][/h3] [list]
+[h3][b]Credits and Disclaimer[/b][/h3] [list]
 [*][b]Contributions:[/b] Thanks to the RimWorld community for feature suggestions and balance tweaks.
 [*]This mod is fan-made and not affiliated with Ludeon Studios.
 [/list]
 
 [b]Thank you for supporting Pass It Through The Window! May your colonies thrive! ⚡[/b]
 
-[img]https://i.postimg.cc/x8qR7GH9/Reporting-Issues.png[/img]
+[img]https://img.litet.net/logos/ReportingIssues.png[/img]
 [list]
 [*] See if the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -68,6 +68,8 @@ Ideal for your annoying, high-voiced recluse chefs, introverted haulers, and any
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+[/list] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3583129312][img]https://img.shields.io/github/v/release/emipa606/PassItThroughTheWindow?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: logistics, item transfer</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.1</modVersion>
 </ModMetaData>

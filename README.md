@@ -1,19 +1,19 @@
-# [Pass It Through The Window! (Continued)]()
+# [Pass It Through The Window! (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3583129312)
 
-![Image](https://i.postimg.cc/1X4HT06h/Info.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of SilkCircuits mod https://steamcommunity.com/sharedfiles/filedetails/?id=3375293116
 
-![Image](https://i.postimg.cc/8csH3dWV/Notice.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.postimg.cc/hvhrw8xB/Original-Description.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 ### A two-sided pass-through window for transferring items between rooms without entering or disrupting the other room's climate—perfect for moving raw food directly to the kitchen or cold storage.
 
 
 Whether you're forcing colonists to deliver slave body straps to bedrooms or enabling druggie colonists with faster access to goods, this handy hole-in-the-wall keeps things efficient, awkward-free, and climate-controlled.
 
-![Image](https://i.postimg.cc/rpK15zJs/dM3nw44.gif)
+![Image](https://img.litet.net/dM3nw44.png)
 
 Ideal for your annoying, high-voiced recluse chefs, introverted haulers, and anyone mastering the medieval equivalent of 'leave it at the door.' Because sometimes, the best way to improve logistics is to avoid eye contact entirely.
 
@@ -43,7 +43,7 @@ Ideal for your annoying, high-voiced recluse chefs, introverted haulers, and any
 
 
 [hr][/hr]
-### **Credits &amp; Disclaimer**
+### **Credits and Disclaimer**
  
 
 - **Contributions:** Thanks to the RimWorld community for feature suggestions and balance tweaks.
@@ -53,7 +53,7 @@ Ideal for your annoying, high-voiced recluse chefs, introverted haulers, and any
 
 **Thank you for supporting Pass It Through The Window! May your colonies thrive! ⚡**
 
-![Image](https://i.postimg.cc/x8qR7GH9/Reporting-Issues.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
@@ -65,4 +65,6 @@ Ideal for your annoying, high-voiced recluse chefs, introverted haulers, and any
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/PassItThroughTheWindow?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3583129312) | tags: logistics, item transfer
