@@ -67,4 +67,4 @@ Ideal for your annoying, high-voiced recluse chefs, introverted haulers, and any
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/PassItThroughTheWindow?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3583129312) | tags: logistics, item transfer
+[![Image](https://img.shields.io/github/v/release/emipa606/PassItThroughTheWindow?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3583129312) | logistics, item transfer
